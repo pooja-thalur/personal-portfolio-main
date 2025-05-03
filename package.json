@@ -1,6 +1,6 @@
 {
   "name": "personal-portfolio",
-  "private": true,
+  "private": false,
   "homepage": "https://pooja-thalur.github.io/personal-portfolio-main/",
   "version": "0.0.1",
   "type": "module",
