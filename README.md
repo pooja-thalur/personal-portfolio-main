@@ -1,4 +1,4 @@
-# Playfolio (Personal Portfolio)
+# Personal Portfolio
 
 ## Overview
 
