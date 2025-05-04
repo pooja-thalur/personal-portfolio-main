@@ -17,8 +17,6 @@ function Intro() {
             1000,
             " a problem solver",
             1000,
-            " a animal",
-            2500,
             " an plant lover",
             1000,
             " an idea realizer",
