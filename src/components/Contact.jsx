@@ -10,7 +10,7 @@ function Contact() {
           method="POST"
           className='flex flex-col w-full md:w-7/12 font-extralight'
         >
-          <Title>connect</Title>
+          <Title>connect with me</Title>
           <input 
             type="text"
             name="name"

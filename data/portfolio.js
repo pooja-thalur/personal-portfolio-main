@@ -3,7 +3,7 @@ export default [
     title: 'Playfolio',
     imgUrl: './assets/portfolio.png',
     stack: ['React', 'Vite', 'Tailwind CSS'],
-    link: 'https://github.com/pooja-thalur/portfoliov2',
+    link: 'https://pooja-thalur.github.io/personal-portfolio-main/',
     github: 'https://github.com/pooja-thalur/portfoliov2',
   },
   {
@@ -11,7 +11,7 @@ export default [
     imgUrl: './assets/3dSite.png',
     stack: ['React', 'JS', 'three.js', 'CSS'],
     link: 'https://poojathalur-15.netlify.app/',
-    github: 'https://github.com/pooja-thalur/hueberry',
+    github: 'https://github.com/pooja-thalur/portfolio2023',
   },
   {
     title: 'Steganography',
@@ -43,7 +43,7 @@ export default [
   },
   {
     title: 'AI in monitoring the web traffic for supply chain security (In Progress)',
-    imgUrl: './assets/etch-a-sketch.png',
+    imgUrl: './assets/inprogress.gif',
     stack: ['HTML', 'CSS', 'JavaScript', 'Python', 'Django', 'AWS', 'Machine Learning']
   },
 ]

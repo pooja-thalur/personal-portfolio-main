@@ -16,7 +16,7 @@ function PortfolioItem({ title, imgUrl, stack, link, github }) {
           <div className="flex space-x-2">
             <a href={link} target='_blank' rel='noopener noreferrer'>
               <img 
-                src="/assets/deployedSite.svg" 
+                src="./assets/deployedSite.svg" 
                 alt="Deployed Site" 
                 className="dark:filter dark:brightness-0 dark:invert-[0.85] dark:sepia-[0.20] dark:saturate-[1000%] dark:hue-rotate-[340deg]"
                 style={{ width: '1.2rem', height: '1.4rem' }} 
@@ -25,7 +25,7 @@ function PortfolioItem({ title, imgUrl, stack, link, github }) {
             {github && (
               <a href={github} target='_blank' rel='noopener noreferrer'>
                 <img 
-                  src="/assets/github.svg" 
+                  src="./assets/github.svg" 
                   alt="Github Repo" 
                   className="dark:filter dark:brightness-0 dark:invert-[0.85] dark:sepia-[0.20] dark:saturate-[1000%] dark:hue-rotate-[340deg]"
                   style={{ width: '1.3rem', height: '1.33rem' }} 
