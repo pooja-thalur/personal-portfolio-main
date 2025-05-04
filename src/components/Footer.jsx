@@ -13,7 +13,7 @@ function Footer() {
               className="inline-flex items-center"
             >
               <img 
-                src="/assets/linkedin.svg" 
+                src="./assets/linkedin.svg" 
                 alt="LinkedIn" 
                 className="dark:filter dark:brightness-0 dark:invert-[0.85] dark:sepia-[0.20] dark:saturate-[1000%] dark:hue-rotate-[340deg]"
                 style={{ width: '1.3rem', height: '1.5rem' }} 
@@ -26,7 +26,7 @@ function Footer() {
               className="inline-flex items-center ml-2"
             >
               <img 
-                src="/assets/github.svg" 
+                src="./assets/github.svg" 
                 alt="Github" 
                 className="dark:filter dark:brightness-0 dark:invert-[0.85] dark:sepia-[0.20] dark:saturate-[1000%] dark:hue-rotate-[340deg]"
                 style={{ width: '1.4rem', height: '1.5rem' }} 

@@ -39,7 +39,7 @@ function Intro() {
       </p>
       <div className="max-w-4xl grid grid-cols-1 mt-8 mb-2 md:grid-cols-4 gap-y-5 md:gap-6">
         <img
-          src="/assets/portrait.jpg"
+          src="./assets/portrait.jpg"
           alt="self-portrait"
           className="h-40 md:h-52 object-cover rounded-full justify-self-center border-[1.5px] border-gray-900 dark:border-amber-50"
         />
